@@ -1,0 +1,1 @@
+Very simple, this will load up a .obj file and read the UV's. If they go beyond 1,1, then it's a UDIM set of tiles. It will read each tile and export a PNG of your resolution choice to use as a template in photoshop for texturing.
